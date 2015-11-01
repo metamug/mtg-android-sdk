@@ -1,0 +1,8 @@
+/build
+/libs
+build.gradle
+google-services.json
+/src/test
+/src/androidTest
+/src/main/res
+/src/main/AndroidManifest.xml
